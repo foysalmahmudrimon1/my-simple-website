@@ -27,7 +27,30 @@
 .tt{background-color: rosybrown; margin: 36px; padding: 30px; border-radius:50px;}
 
 
-.yy{background-size: 300px background-color: antiquewhite;  margin: 0px; padding: 50px; border-radius:  50px;}
+.yy{background-color: aquamarine ; margin: 36px; padding: 30px; border-radius: 50px;}
 
 
-.uu{ background-color:silver; margin: 20px; padding: 20px;}
+.uu{ background-color:silver; margin: 36px; padding: 50px; border-radius: 50px;}
+.ii{display:inline-flex; text-align: center; }
+
+.oo{text-align: left;}
+
+.pp{text-align: center;}
+
+.aa{text-align: left;}
+
+.bb{background-color: beige; padding: 0px 40px 40px 40px; margin: 25px; margin-bottom: 15px; }
+.bb{display: flex;}
+.mm{margin: 5px;}
+
+.nn{margin: 5px;}
+
+.vv{margin: 5px;}
+
+
+
+
+.zz{margin: 20px}
+
+.xx{margin: 20px;}
+.ss{margin: 20px;}
