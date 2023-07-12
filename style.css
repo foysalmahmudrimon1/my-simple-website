@@ -1,5 +1,14 @@
-.bannar{background: fixed; background-color: pink} pink;}
+.header{background-color: pink}
+.two{padding-left: 50px;}
+.bannar{padding: 20px 100px 0px 20px; 
+         display: flex; align-items: center;
+}
 
-.header{pointer-events: stroke;}
+.mul{font-size:40px;}
 
-.qq{margin-right: auto;}
+.soto{}
+
+.btn-primary{color: white; background-color:tan; border-radius: 5px; padding: 5px ;
+
+
+}
